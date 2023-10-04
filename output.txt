@@ -1,0 +1,10 @@
+Thread 1: SQL query execution time: 0.6585962772369385 : seconds 
+Thread 2: SQL query execution time: 5.071221590042114 : seconds 
+Thread 3: SQL query execution time: 5.195382833480835 : seconds 
+Thread 4: SQL query execution time: 2.2903904914855957 : seconds 
+Thread 5: SQL query execution time: 0.5253074169158936 : seconds 
+Thread 6: SQL query execution time: 2.4202120304107666 : seconds 
+Thread 7: SQL query execution time: 0.7763040065765381 : seconds 
+Thread 8: SQL query execution time: 5.012285232543945 : seconds 
+Thread 9: SQL query execution time: 15.880790710449219 : seconds 
+Thread 10: SQL query execution time: 2.232525587081909 : seconds 
